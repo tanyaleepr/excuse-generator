@@ -10,13 +10,7 @@
   
   <hr>
   
-  
-  <h2>What is next?</h2>
-  <p>
-  1. Javascript to add functions and list of excuses - by Tanya
-  2. List of excuses
-  3. Landing page
-  </p>
-  
   Click on the link to see our excuses generator! (Spanish version)
   
+  
+https://gnesismrtz.github.io/excuse-generator/
