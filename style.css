@@ -1,13 +1,14 @@
 body {
-  font-family: Verdana, Geneva, sans-serif;
-  font-size: 1.2em;
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 40px 10px;
-  line-height: 1.65em;
-  background: #B20940;
-  color: #fff;
-  font-weight: 300;
+  position: relative;
+  width:100%;
+  min-height: 100vh;
+  background: #161616;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  padding: 5rem;
+
 }
 
 h1 {
@@ -43,4 +44,70 @@ h1 {
     font-weight: bold;
 }
 
+/* Genesis styling */
 
+.contenedor1 {
+  width: 800px;
+  height:250px;
+  background: #346751;
+  color: #F6F7D7;
+  padding: 25px;
+  border-radius: 10px;
+
+}
+
+/*cual era h4? */
+h4 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+}
+
+form {
+  position:relative;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+input {
+  width: 100%;
+  background: #351F39;
+  border: none;
+  outline: none;
+  padding:15px 145px 15px 12px;
+  border-radius: 15px;
+  color: #FAFAFA;
+  font-size: 1.2rem;
+}
+
+button {
+  position: absolute;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  color: #F6F7D7;
+  border:none;
+  outline:none;
+  background: #519872;
+  right: 3px;
+  top:3px;
+  cursor: pointer;
+}
+
+.namebox {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+  position:relative;
+  background: #FF165D;
+  text-align: center;
+  color: #F6F7D7;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.genera {
+  font-weight: 300;
+  text-transform: capitalize;
+  letter-spacing: .3px;
+}
