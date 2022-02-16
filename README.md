@@ -1,16 +1,36 @@
-# excuse-generator
+# Excuses Generator (Spanish version)
 
-<h1>Excuse Generator</h1>
-  <p> This is a project that my good friend Tanya and I tought would be funny to make.
-    This is a "Excuse generator" that will bring out <b>serious</b> to <b>funny</b> ways to respond
-    in case you ever need them. </p>
-  
-  
-  Here you will see my contribution with the HTML and CSS of the website.
-  
-  <hr>
-  
-  Click on the link to see our excuses generator! (Spanish version)
-  
-  
-https://gnesismrtz.github.io/excuse-generator/
+![license badge](https://img.shields.io/badge/license-MIT-brightblue)
+    
+## Description
+This project will provide you random excuses for you to use in the case of not wanting to be at work, events, or even school. We help you! :D
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+<a name="installation"></a>
+## Installation
+We used HTML, CSS, and JavaScript for the installation of this project.
+<a name="usage"></a>
+## Usage
+The usage is easy, just enter the website and click-on the "Generate Excuse" button for a random excuse.
+<a name="license"></a>
+    
+## License
+This project is covered under the following license:
+    
+[MIT](https://www.mit.edu/~amini/LICENSE.md)
+    
+<a name="contributing"></a>
+## Contributing
+Currently accepting contributions from developers. Please email us (see information below).
+<a name="tests"></a>
+## Tests
+When entering the page, you just need to "click-on" the button. 
+<a name="questions"></a>
+## Questions
+If you have any questions, feel free to reach out at: [GitHub](https://github.com/tanyaleepr) , [GitHub](https://github.com/gnesismrtz or <tanyaleepr@gmail.com>
