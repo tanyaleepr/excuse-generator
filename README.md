@@ -33,4 +33,4 @@ Currently accepting contributions from developers. Please email us (see informat
 When entering the page, you just need to "click-on" the button. 
 <a name="questions"></a>
 ## Questions
-If you have any questions, feel free to reach out at: [GitHub](https://github.com/tanyaleepr) , [GitHub](https://github.com/gnesismrtz or <tanyaleepr@gmail.com>
+If you have any questions, feel free to reach out at: [Tanya's GitHub](https://github.com/tanyaleepr) , [Genesis's GitHub](https://github.com/gnesismrtz) or <tanyaleepr@gmail.com>
