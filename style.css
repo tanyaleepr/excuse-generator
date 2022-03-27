@@ -33,6 +33,7 @@ body {
   color: #FAFAFA;
   font-size: 1.2rem;
   text-align:center;
+  
 }
 
 .contenedor1 {
@@ -48,7 +49,7 @@ body {
 
 h4 {
   font-weight: bold;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align:center;
   font-family: 'Poppins', sans-serif;
   margin-bottom:20px;
@@ -56,30 +57,30 @@ h4 {
 
 
 #button {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size:20px;
   font-weight: bolder;
   background: #FF165D;
   text-align: center;
   color: #F6F7D7;
+  width:100%;
   border-radius: 10px;
   padding: 12px;
   margin-top:15px;
-  margin-left:25rem;
-
   cursor: pointer;
+  letter-spacing:.5rem;
 }
 
 footer {
 border-radius: 10px;
-background-color: #FF165D;
 text-align: center;
-margin-top: 4%;
-font-family: 'Poppins', sans-serif;
-color: #161616;
+margin-top: 10%;
+font-family: 'Archivo Narrow', sans-serif;
+color: #FF165D;
 }
 
 p {
-  margin-top:5px;
+  margin-top:3%;
   font-weight:bolder;
 }
 a {
@@ -87,4 +88,13 @@ a {
   text-decoration:none;
   font-family: 'Poppins', sans-serif;
   color: #F6F7D7;
+  text-decoration:none;
+  font-weight:bolder;
 }
+
+/* @media only screen and (max-width:600px) {
+  #wordbox {
+    overflow-wrap: break-word;
+    hyphens: manual;
+}
+} */
