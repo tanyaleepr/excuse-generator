@@ -1,9 +1,7 @@
-# Excuses Generator (Spanish version)
-
-![license badge](https://img.shields.io/badge/license-MIT-brightblue)
+# Excuse Generator
     
 ## Description
-This project will provide you random excuses for you to use in the case of not wanting to be at work, events, or even school. We help you! :D
+This project will provide you random excuses for you to use in the case of not wanting to be at work, events, or even school. We can help you! 🤪
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,7 +15,7 @@ This project will provide you random excuses for you to use in the case of not w
 We used HTML, CSS, and JavaScript for the installation of this project.
 <a name="usage"></a>
 ## Usage
-The usage is easy, just enter the website and click-on the "Generate Excuse" button for a random excuse.
+The usage is easy, just enter the website and click-on the "Excuse Generator" button for a random excuse.
 <a name="license"></a>
     
 ## License
@@ -30,7 +28,7 @@ This project is covered under the following license:
 Currently accepting contributions from developers. Please email us (see information below).
 <a name="tests"></a>
 ## Tests
-When entering the page, you just need to "click-on" the button. 
+When entering the page, you just need to click-on the "Generate excuses" button. 
 <a name="questions"></a>
 ## Questions
-If you have any questions, feel free to reach out at: [Tanya's GitHub](https://github.com/tanyaleepr) , [Genesis's GitHub](https://github.com/gnesismrtz) or <tanyaleepr@gmail.com>
+If you have any questions, feel free to reach out at: [Tanya's GitHub](https://github.com/tanyaleepr) or [Genesis's GitHub](https://github.com/gnesismrtz). 
