@@ -1,7 +1,7 @@
 # Excuse Generator
     
 ## Description
-This project will provide you random excuses for you to use in the case of not wanting to be at work, events, or even school. We can help you! 🤪
+This project will provide you random excuses for you to use in the case of not wanting to be at work, events, or even school. We can help you! 🤪 Deployed link: https://excuse-generator.tanyagonzalez2.repl.co/
 ## Table of Contents
 
 - [Installation](#installation)
